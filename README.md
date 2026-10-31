@@ -17,7 +17,9 @@ Electron · React · TypeScript · SQLite · Playwright
 **Lone Pine** — operations software for my Amazon business: inventory, reimbursement claims, accounting with bank feeds, and Slack alerts for the team.
 Next.js · Supabase · Postgres · Vercel
 
-**JARVIS** — long-term memory for Claude. On LongMemEval (150 questions), my retrieval router moved accuracy from 0.713 to 0.767.
+**Recall** — long-term memory for Claude. On LongMemEval (150 questions), my retrieval router moved accuracy from 0.713 to 0.767.
+
+**Poker bot** — a no-limit Hold'em research bot in Rust, benchmarked against Slumbot.
 
 **Taska** — coursework, calendar and training in one list, with lock-screen reminders.
 
